@@ -9,9 +9,9 @@ Hi, I'm Firat Akkoyun!
 ---
 
 # 📊 GitHub Stats
-![Firat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiratAkkoyun&show_icons=true&theme=radical)
+![Firat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thefirat&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FiratAkkoyun&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thefirat&layout=compact&theme=radical)
 
 ---
 
