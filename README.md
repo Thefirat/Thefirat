@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 About Me
+Hi, I'm Firat Akkoyun! 
 
-<!--
-**Thefirat/Thefirat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 Based in **Stockholm, Sweden**
+- 💻 Experienced in **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Node.js**, **MySQL**, and **GitHub**
+- 🎯 Currently learning **TypeScript** and **Vue**
+- 🍻 Passionate about building meaningful web applications and creating memorable user experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats
+![Firat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FiratAkkoyun&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FiratAkkoyun&layout=compact&theme=radical)
+
+---
+
+# 🛠️ Skills
+
+### Programming Languages
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![PHP](https://skillicons.dev/icons?i=php)
+
+### Frameworks & Libraries
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+
+### Databases & Tools
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Git](https://skillicons.dev/icons?i=git)
+
+### Other Tools
+![Vite](https://skillicons.dev/icons?i=vite)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+---
+
+### 🌐 Find me online:
+- [LinkedIn](https://www.linkedin.com/in/firat-akkoyun)
